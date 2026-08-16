@@ -135,7 +135,7 @@ img {
   font-weight: 600;
   padding: 6px 12px;
   border-radius: 4px;
-  color: black;
+  color:white;
   border: 1px solid black;
   background-color: black;
   transition: background-color 0.2s, color 0.2s;
@@ -143,8 +143,8 @@ img {
 
 /* Hover state */
 .project-links a:hover {
-  background-color: black;
-  color: #ffffff;
+  background-color: white;
+  color: black;
 }
 
 .card-image-wrapper {
