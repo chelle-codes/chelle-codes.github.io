@@ -126,6 +126,8 @@ img {
   justify-content: center;
   gap: 10px;
   margin-top: 10px;
+  background-color:black;
+  color: white;
 }
 
 /* Base button link style */
@@ -135,7 +137,7 @@ img {
   font-weight: 600;
   padding: 6px 12px;
   border-radius: 4px;
-  color:white;
+  color: white;
   border: 1px solid black;
   background-color: black;
   transition: background-color 0.2s, color 0.2s;
