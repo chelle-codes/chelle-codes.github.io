@@ -208,6 +208,7 @@ footer {
 .contact-form {
   display: flex;
   flex-direction: column;
+  color:black;
 }
 
 input[type="text"], 
