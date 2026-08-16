@@ -16,7 +16,7 @@ body {
 /* --- 2. HEADERS --- */
 h1 {
   text-align: center;
-  color: #12C7D8;
+  color: #00F0FF;
   font-family: sans-serif;
   padding: 15px;
   margin-bottom: 1.8rem;
@@ -25,7 +25,7 @@ h1 {
 
 h2 {
   color: white;
-  background-color: #12C7D8;
+  background-color: #00F0FF;
   text-align: center;
   font-family: sans-serif;
   padding: 10px;
@@ -33,7 +33,7 @@ h2 {
 }
 
 h3 {
-  color:#333333;
+  color:#00F0FF;
   font-family: sans-serif;
   font-size: 1.3rem;
 }
@@ -46,7 +46,7 @@ p {
 /* --- 3. ORIGINAL NAVIGATION BAR --- */
 ul {
   list-style-type: none;
-  background-color: #12C7D8;
+  background-color: #00F0FF;
   display: flex;
   justify-content: center;
   max-width: 100%; 
@@ -63,7 +63,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #12C7D8; /* Slightly deeper tint for the hover effect */
+  background-color: #00F0FF; /* Slightly deeper tint for the hover effect */
   transform: scale(1.05);
 }
 
@@ -96,8 +96,8 @@ ul li a:hover {
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 12px; /* Gives your picture a modern rounded edge */
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* Soft professional shadow */
+  border-radius: 12px; 
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 
 }
 
 /* Grid layout for your portfolio cards */
@@ -137,7 +137,7 @@ img {
   border-radius: 4px;
   color: black;
   border: 1px solid black;
-  background-color: #12C7D8;
+  background-color: #00F0FF;
   transition: background-color 0.2s, color 0.2s;
 }
 
@@ -212,7 +212,7 @@ input[type="text"],
 input[type="email"], 
 textarea,
 button[type="submit"] {
-  border: 4px solid #12C7D8;
+  border: 4px solid #00F0FF;
   border-radius: 10px;
   padding: 10px;
   margin-bottom: 10px;
@@ -229,7 +229,7 @@ textarea {
 
 button[type="submit"] {
   appearance: none;
-  background-color: #12C7D8;
+  background-color: #00F0FF;
   color: white;
   font-weight: bold;
   cursor: pointer;
