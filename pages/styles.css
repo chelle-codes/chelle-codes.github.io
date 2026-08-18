@@ -79,7 +79,7 @@ ul li a:hover {
 
 .column-left {
   flex: 1;
-  min-width: 300px;
+  /*min-width: 300px;*/
 }
 
 .column-left p {
