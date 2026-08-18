@@ -285,9 +285,7 @@ button[type="submit"]:hover {
   transform: scale(1.15) translateY(-3px); /* Makes them pop out and lift up on hover */
 }
 
-.social-links i {
-  font-family: "Font Awesome 6 Brands", "Font Awesome 6 Free", sans-serif !important;
-}
+
 
 
 
