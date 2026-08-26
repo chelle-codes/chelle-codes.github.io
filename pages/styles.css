@@ -49,6 +49,12 @@ p {
 }
 
 /* --- 3. ORIGINAL NAVIGATION BAR --- */
+
+nav a {
+display: inline block;
+padding: 12px;
+
+}
 ul {
   list-style-type: none;
   background-color: black;
@@ -59,7 +65,6 @@ ul {
 }
 
 ul li a {
-  padding: 10px;
   display: block;
   color: white;
   padding: 14px 16px;
